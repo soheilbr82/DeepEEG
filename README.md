@@ -1,2 +1,2 @@
 # DeepVisualAttention
-A predictive model of human visual attention using EEG signals is presented.
+This project aims to implement an EEG classification model using Convolutional Neural Network (CNN).
